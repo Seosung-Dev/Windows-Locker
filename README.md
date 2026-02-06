@@ -35,3 +35,5 @@ PASSWORD=your_password
 ```
 
 3. The `.env` file is excluded from Git for security reasons.
+
+### TMI: This program was created so the developer's parents couldn't see the computer while running servers.
