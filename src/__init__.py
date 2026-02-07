@@ -43,7 +43,7 @@ def main():
         label = tk.Label(root, text=ID, font=("Arial", 40, "bold"), bg = root["bg"], fg="white")
         label.place(relx=0.5, rely=0.45, anchor=tk.CENTER)
 
-        ent = tk.Entry(root, font=("Arial", 20), width=30, justify="left", show="*")
+        ent = tk.Entry(root, font=("Arial", 20), width=30, justify="center", show="*")
         ent.place(relx=0.5, rely=0.5, anchor=tk.CENTER)
 
         def login():
