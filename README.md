@@ -2,7 +2,7 @@
 
 ## Warning!!
 ### This program is under development. The developer is not responsible for any damage caused by this program.
-## By cloning, forking, or downloading this program, you are considered to have read and agreed to the warnings and terms above.
+### By cloning, forking, or downloading this program, you are considered to have read and agreed to the warnings and terms above.
 
 ## How to use
 ### Installation
@@ -13,7 +13,7 @@ pip install python-dotenv screeninfo
 
 ---
 
-## Environment Setup
+### Environment Setup
 
 1. Copy `.env.example` to `.env`
 
