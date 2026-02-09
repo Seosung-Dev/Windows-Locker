@@ -33,4 +33,4 @@ ID=your_id
 PASSWORD=your_password
 ```
 
-3. `.env` 파일은 보안을 위해 Git에서 제외됩니다.
+3. 실행하세요
