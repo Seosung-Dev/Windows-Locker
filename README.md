@@ -34,4 +34,4 @@ ID=your_id
 PASSWORD=your_password
 ```
 
-3. The `.env` file is excluded from Git for security reasons.
+3. Run the file
